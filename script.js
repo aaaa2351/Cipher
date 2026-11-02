@@ -712,6 +712,414 @@ const subQs = {
             options: ["Maldives", "Madagascar", "Sri Lanka", "Mauritius"],
             ans: "Sri Lanka"
         }
+    ],
+    Biology: [
+        {
+            q: "What is known as the powerhouse of the cell?",
+            options: ["Nucleus", "Mitochondria", "Ribosome", "Golgi apparatus"],
+            ans: "Mitochondria"
+        },
+        {
+            q: "What is the green pigment in plants used for photosynthesis?",
+            options: ["Chlorophyll", "Carotene", "Xanthophyll", "Hemoglobin"],
+            ans: "Chlorophyll"
+        },
+        {
+            q: "What is the largest organ in the human body?",
+            options: ["Liver", "Brain", "Skin", "Heart"],
+            ans: "Skin"
+        },
+        {
+            q: "Which blood vessels carry oxygenated blood away from the heart?",
+            options: ["Veins", "Arteries", "Capillaries", "Venules"],
+            ans: "Arteries"
+        },
+        {
+            q: "What type of organism makes its own food?",
+            options: ["Autotroph", "Heterotroph", "Decomposer", "Herbivore"],
+            ans: "Autotroph"
+        },
+        {
+            q: "Which structure in a plant cell provides structural support and protection?",
+            options: ["Cell membrane", "Cell wall", "Vacuole", "Chloroplast"],
+            ans: "Cell wall"
+        },
+        {
+            q: "What molecule carries genetic instructions in living organisms?",
+            options: ["RNA", "ATP", "DNA", "Glucose"],
+            ans: "DNA"
+        },
+        {
+            q: "How many chromosomes do human body cells normally contain?",
+            options: ["23", "46", "44", "48"],
+            ans: "46"
+        },
+        {
+            q: "Which blood type is known as the universal donor?",
+            options: ["A Positive", "AB Positive", "O Negative", "B Negative"],
+            ans: "O Negative"
+        },
+        {
+            q: "What is the process of cell division that results in four daughter cells with half the chromosomes?",
+            options: ["Mitosis", "Meiosis", "Binary Fission", "Budding"],
+            ans: "Meiosis"
+        },
+        {
+            q: "Which organ produces insulin in the human body?",
+            options: ["Liver", "Kidney", "Pancreas", "Stomach"],
+            ans: "Pancreas"
+        },
+        {
+            q: "What kind of symbiotic relationship benefits one organism while hurting the other?",
+            options: ["Mutualism", "Commensalism", "Parasitism", "Predation"],
+            ans: "Parasitism"
+        },
+        {
+            q: "Which part of the brain controls balance and coordination?",
+            options: ["Cerebrum", "Cerebellum", "Brainstem", "Hypothalamus"],
+            ans: "Cerebellum"
+        },
+        {
+            q: "What type of tissue connects bones to other bones?",
+            options: ["Tendon", "Ligament", "Cartilage", "Muscle"],
+            ans: "Ligament"
+        },
+        {
+            q: "What is the primary function of white blood cells?",
+            options: ["Carry oxygen", "Clot blood", "Fight infections", "Transport nutrients"],
+            ans: "Fight infections"
+        },
+        {
+            q: "In which part of the digestive system does most nutrient absorption occur?",
+            options: ["Stomach", "Small Intestine", "Large Intestine", "Esophagus"],
+            ans: "Small Intestine"
+        },
+        {
+            q: "What is the basic functional unit of the nervous system?",
+            options: ["Nephron", "Neuron", "Alveoli", "Synapse"],
+            ans: "Neuron"
+        },
+        {
+            q: "Which chamber of the human heart pumps blood out to the rest of the body?",
+            options: ["Right Atrium", "Left Atrium", "Right Ventricle", "Left Ventricle"],
+            ans: "Left Ventricle"
+        },
+        {
+            q: "What process converts glucose into cellular energy (ATP)?",
+            options: ["Photosynthesis", "Cellular Respiration", "Fermentation", "Osmosis"],
+            ans: "Cellular Respiration"
+        },
+        {
+            q: "What category of animals lacks a backbone?",
+            options: ["Vertebrates", "Invertebrates", "Mammals", "Amphibians"],
+            ans: "Invertebrates"
+        }
+    ],
+    Geography: [
+        {
+            q: "Which is the largest ocean on Earth?",
+            options: ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+            ans: "Pacific Ocean"
+        },
+        {
+            q: "What is the capital city of France?",
+            options: ["Marseille", "Lyon", "Paris", "Nice"],
+            ans: "Paris"
+        },
+        {
+            q: "Which continent has the most countries?",
+            options: ["Asia", "Africa", "Europe", "South America"],
+            ans: "Africa"
+        },
+        {
+            q: "What is the largest desert in the world?",
+            options: ["Sahara Desert", "Gobi Desert", "Antarctic Desert", "Kalahari Desert"],
+            ans: "Antarctic Desert"
+        },
+        {
+            q: "Which imaginary line divides the Earth into Northern and Southern hemispheres?",
+            options: ["Prime Meridian", "Equator", "Tropic of Cancer", "Tropic of Capricorn"],
+            ans: "Equator"
+        },
+        {
+            q: "What is the highest mountain peak above sea level in the world?",
+            options: ["Mount Kilimanjaro", "K2", "Mount Everest", "Mount Denali"],
+            ans: "Mount Everest"
+        },
+        {
+            q: "Which country has the longest coastline in the world?",
+            options: ["Russia", "Australia", "Canada", "United States"],
+            ans: "Canada"
+        },
+        {
+            q: "What is the capital city of Brazil?",
+            options: ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+            ans: "Brasília"
+        },
+        {
+            q: "Which sea lies between Africa and Europe?",
+            options: ["Red Sea", "Caribbean Sea", "Mediterranean Sea", "Black Sea"],
+            ans: "Mediterranean Sea"
+        },
+        {
+            q: "What is the smallest continent by land area?",
+            options: ["Europe", "Antarctica", "Australia", "South America"],
+            ans: "Australia"
+        },
+        {
+            q: "Which river flows through Cairo, Egypt?",
+            options: ["Amazon", "Nile", "Congo", "Niger"],
+            ans: "Nile"
+        },
+        {
+            q: "In which country are the Pyramids of Giza located?",
+            options: ["Sudan", "Jordan", "Egypt", "Iraq"],
+            ans: "Egypt"
+        },
+        {
+            q: "What mountain range separates Italy from the rest of mainland Europe?",
+            options: ["Pyrenees", "Alps", "Apennines", "Carpathians"],
+            ans: "Alps"
+        },
+        {
+            q: "Which ocean lies between Africa, Australia, and Asia?",
+            options: ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Southern Ocean"],
+            ans: "Indian Ocean"
+        },
+        {
+            q: "What is the capital city of Canada?",
+            options: ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+            ans: "Ottawa"
+        },
+        {
+            q: "Which country contains the largest portion of the Amazon Rainforest?",
+            options: ["Colombia", "Peru", "Brazil", "Venezuela"],
+            ans: "Brazil"
+        },
+        {
+            q: "What type of landform is completely surrounded by water?",
+            options: ["Peninsula", "Isthmus", "Island", "Cape"],
+            ans: "Island"
+        },
+        {
+            q: "Which US state is the largest by land area?",
+            options: ["Texas", "California", "Alaska", "Montana"],
+            ans: "Alaska"
+        },
+        {
+            q: "What line of longitude is designated as 0 degrees?",
+            options: ["Equator", "Prime Meridian", "International Date Line", "Tropic of Cancer"],
+            ans: "Prime Meridian"
+        },
+        {
+            q: "Which European country is shaped like a boot?",
+            options: ["Spain", "Greece", "Portugal", "Italy"],
+            ans: "Italy"
+        }
+    ],
+    Physics: [
+        {
+            q: "What is the SI unit of force?",
+            options: ["Joule", "Watt", "Pascal", "Newton"],
+            ans: "Newton"
+        },
+        {
+            q: "What is the speed of light in a vacuum approximately?",
+            options: ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+            ans: "300,000 km/s"
+        },
+        {
+            q: "Which law states that for every action, there is an equal and opposite reaction?",
+            options: ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Gravity"],
+            ans: "Newton's Third Law"
+        },
+        {
+            q: "What type of energy is stored in an object due to its position?",
+            options: ["Kinetic Energy", "Potential Energy", "Thermal Energy", "Chemical Energy"],
+            ans: "Potential Energy"
+        },
+        {
+            q: "Which component limits or regulates the flow of electrical current in a circuit?",
+            options: ["Capacitor", "Resistor", "Inductor", "Diode"],
+            ans: "Resistor"
+        },
+        {
+            q: "What is the acceleration due to gravity on Earth's surface approximately?",
+            options: ["5.8 m/s²", "9.8 m/s²", "12.4 m/s²", "15.0 m/s²"],
+            ans: "9.8 m/s²"
+        },
+        {
+            q: "What unit is used to measure electrical resistance?",
+            options: ["Volt", "Ampere", "Ohm", "Watt"],
+            ans: "Ohm"
+        },
+        {
+            q: "What is the form of energy associated with motion?",
+            options: ["Potential Energy", "Kinetic Energy", "Nuclear Energy", "Chemical Energy"],
+            ans: "Kinetic Energy"
+        },
+        {
+            q: "Which subatomic particle carries a positive charge?",
+            options: ["Electron", "Neutron", "Proton", "Photon"],
+            ans: "Proton"
+        },
+        {
+            q: "What law states that energy cannot be created or destroyed, only transformed?",
+            options: ["Law of Conservation of Energy", "Law of Universal Gravitation", "Hooke's Law", "Ohm's Law"],
+            ans: "Law of Conservation of Energy"
+        },
+        {
+            q: "What type of mirror curves inward like the inside of a bowl?",
+            options: ["Convex", "Concave", "Flat", "Plane"],
+            ans: "Concave"
+        },
+        {
+            q: "What unit measures electrical current?",
+            options: ["Volt", "Watt", "Ampere", "Joule"],
+            ans: "Ampere"
+        },
+        {
+            q: "Which wave property determines the pitch of a sound?",
+            options: ["Amplitude", "Frequency", "Wavelength", "Speed"],
+            ans: "Frequency"
+        },
+        {
+            q: "What is the force that opposes motion between two surfaces in contact?",
+            options: ["Gravity", "Inertia", "Friction", "Tension"],
+            ans: "Friction"
+        },
+        {
+            q: "What unit measures work and energy in the SI system?",
+            options: ["Watt", "Joule", "Newton", "Pascal"],
+            ans: "Joule"
+        },
+        {
+            q: "Which instrument is used to measure electric voltage?",
+            options: ["Ammeter", "Voltmeter", "Barometer", "Ohmmeter"],
+            ans: "Voltmeter"
+        },
+        {
+            q: "What state of matter has a fixed volume but no fixed shape?",
+            options: ["Solid", "Liquid", "Gas", "Plasma"],
+            ans: "Liquid"
+        },
+        {
+            q: "What happens to the density of water as it freezes into ice?",
+            options: ["It increases", "It decreases", "It stays the same", "It doubles"],
+            ans: "It decreases"
+        },
+        {
+            q: "What type of lens causes light rays to converge to a single focal point?",
+            options: ["Convex lens", "Concave lens", "Flat lens", "Diverging lens"],
+            ans: "Convex lens"
+        },
+        {
+            q: "What property of an object measures its resistance to a change in its state of motion?",
+            options: ["Velocity", "Weight", "Inertia", "Momentum"],
+            ans: "Inertia"
+        }
+    ],
+    QuantumPhysics: [
+        {
+            q: "What is the basic particle or packet of light energy called?",
+            options: ["Proton", "Photon", "Electron", "Neutron"],
+            ans: "Photon"
+        },
+        {
+            q: "What is quantum mechanics primarily the study of?",
+            options: ["Massive stars", "Subatomic particles and tiny scales", "Ocean currents", "Sound waves in air"],
+            ans: "Subatomic particles and tiny scales"
+        },
+        {
+            q: "Which famous thought experiment involves a cat that is both alive and dead until observed?",
+            options: ["Einstein's Elevator", "Schrödinger's Cat", "Maxwell's Demon", "Newton's Apple"],
+            ans: "Schrödinger's Cat"
+        },
+        {
+            q: "What quantum phenomenon describes two particles becoming connected so that measuring one instantly affects the other?",
+            options: ["Superposition", "Quantum Entanglement", "Quantum Tunneling", "Wave Interference"],
+            ans: "Quantum Entanglement"
+        },
+        {
+            q: "What does quantum 'superposition' mean?",
+            options: ["A particle moving faster than light", "A particle existing in multiple states at once until measured", "Two particles combining into one", "A particle losing all its energy"],
+            ans: "A particle existing in multiple states at once until measured"
+        },
+        {
+            q: "Who is considered the father of quantum theory for introducing the idea of quanta in 1900?",
+            options: ["Albert Einstein", "Max Planck", "Niels Bohr", "Werner Heisenberg"],
+            ans: "Max Planck"
+        },
+        {
+            q: "What principle states that you cannot simultaneously measure both the exact position and momentum of a particle?",
+            options: ["Pauli Exclusion Principle", "Heisenberg Uncertainty Principle", "Planck's Law", "Bohr Model"],
+            ans: "Heisenberg Uncertainty Principle"
+        },
+        {
+            q: "What concept states that light and matter can act as both waves and particles?",
+            options: ["Wave-Particle Duality", "Double-Refraction", "Quantum Decoherence", "Particle Acceleration"],
+            ans: "Wave-Particle Duality"
+        },
+        {
+            q: "What is the minimum discrete unit or 'packet' of energy called in physics?",
+            options: ["Quark", "Quantum", "Atom", "Molecule"],
+            ans: "Quantum"
+        },
+        {
+            q: "Which famous experiment demonstrated that light acts as both waves and particles?",
+            options: ["Michelson-Morley Experiment", "Double-Slit Experiment", "Kite Experiment", "Oil Drop Experiment"],
+            ans: "Double-Slit Experiment"
+        },
+        {
+            q: "What happens to a quantum wave function when an observation or measurement is made?",
+            options: ["It explodes", "It expands infinitely", "It collapses to a single outcome", "It splits into light"],
+            ans: "It collapses to a single outcome"
+        },
+        {
+            q: "What phenomenon allows a quantum particle to pass through a barrier it normally shouldn't cross?",
+            options: ["Quantum Tunneling", "Quantum Leap", "Quantum Spanning", "Quantum Reflection"],
+            ans: "Quantum Tunneling"
+        },
+        {
+            q: "What is the basic unit of information in a quantum computer called?",
+            options: ["Bit", "Byte", "Qubit", "Pixel"],
+            ans: "Qubit"
+        },
+        {
+            q: "Which fundamental particle carries a negative charge in an atom?",
+            options: ["Proton", "Electron", "Neutron", "Gluon"],
+            ans: "Electron"
+        },
+        {
+            q: "Who developed the model of the atom where electrons occupy fixed energy levels?",
+            options: ["Isaac Newton", "Niels Bohr", "Galileo Galilei", "Ernest Rutherford"],
+            ans: "Niels Bohr"
+        },
+        {
+            q: "What fundamental particles make up protons and neutrons?",
+            options: ["Photons", "Quarks", "Leptons", "Bosons"],
+            ans: "Quarks"
+        },
+        {
+            q: "What did Albert Einstein win his 1921 Nobel Prize for explaining?",
+            options: ["Theory of Relativity", "Photoelectric Effect", "Black Hole Formation", "Gravitational Waves"],
+            ans: "Photoelectric Effect"
+        },
+        {
+            q: "What constant connects the energy of a photon to its frequency ($E = hf$)?",
+            options: ["Gravitational Constant", "Planck's Constant", "Speed of Light", "Avogadro's Constant"],
+            ans: "Planck's Constant"
+        },
+        {
+            q: "What principle states that two identical electrons cannot occupy the exact same quantum state simultaneously?",
+            options: ["Pauli Exclusion Principle", "Heisenberg Principle", "Planck Principle", "Hubble Principle"],
+            ans: "Pauli Exclusion Principle"
+        },
+        {
+            q: "What fundamental force holds the nucleus of an atom together?",
+            options: ["Gravity", "Electromagnetic Force", "Strong Nuclear Force", "Weak Nuclear Force"],
+            ans: "Strong Nuclear Force"
+        }
     ]
 };
 
