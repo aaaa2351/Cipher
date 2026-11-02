@@ -406,6 +406,312 @@ const subQs = {
             options: ["Git", "Node", "Webpack", "Sass"],
             ans: "Git"
         }
+    ],
+    English: [
+        {
+            q: "Which of the following is a noun?",
+            options: ["Quickly", "Happiness", "Run", "Beautiful"],
+            ans: "Happiness"
+        },
+        {
+            q: "What is the past tense of the verb 'go'?",
+            options: ["Gone", "Going", "Went", "Goes"],
+            ans: "Went"
+        },
+        {
+            q: "Which word is a synonym for 'huge'?",
+            options: ["Tiny", "Gigantic", "Narrow", "Short"],
+            ans: "Gigantic"
+        },
+        {
+            q: "Which word is an antonym for 'ancient'?",
+            options: ["Old", "Modern", "Historic", "Aged"],
+            ans: "Modern"
+        },
+        {
+            q: "Choose the correctly spelled word:",
+            options: ["Recieve", "Receive", "Receeve", "Recive"],
+            ans: "Receive"
+        },
+        {
+            q: "What type of word modifies a verb, adjective, or another adverb?",
+            options: ["Pronoun", "Preposition", "Adverb", "Conjunction"],
+            ans: "Adverb"
+        },
+        {
+            q: "Identify the conjunction in this sentence: 'I wanted to go, but it was raining.'",
+            options: ["wanted", "go", "but", "raining"],
+            ans: "but"
+        },
+        {
+            q: "What is a word called that sounds the same as another word but has a different meaning?",
+            options: ["Homophone", "Antonym", "Synonym", "Acronym"],
+            ans: "Homophone"
+        },
+        {
+            q: "Which sentence uses proper punctuation?",
+            options: ["Whose jacket is this?", "Whos jacket is this?", "Who's jacket is this?", "Whose's jacket is this?"],
+            ans: "Whose jacket is this?"
+        },
+        {
+            q: "What is a figure of speech that directly compares two things using 'like' or 'as'?",
+            options: ["Metaphor", "Simile", "Personification", "Hyperbole"],
+            ans: "Simile"
+        },
+        {
+            q: "Which of these is a plural noun?",
+            options: ["Child", "Foot", "Geese", "Mouse"],
+            ans: "Geese"
+        },
+        {
+            q: "What is the main subject of a sentence called?",
+            options: ["Predicate", "Subject", "Object", "Clause"],
+            ans: "Subject"
+        },
+        {
+            q: "Which word is an adjective in: 'The loud music startled everyone'?",
+            options: ["loud", "music", "startled", "everyone"],
+            ans: "loud"
+        },
+        {
+            q: "What is an extreme exaggeration used for emphasis called?",
+            options: ["Idiom", "Hyperbole", "Oxymoron", "Alliteration"],
+            ans: "Hyperbole"
+        },
+        {
+            q: "Choose the correct pronoun: 'Sarah and ____ went to the store.'",
+            options: ["me", "I", "myself", "us"],
+            ans: "I"
+        },
+        {
+            q: "Which literary device involves the repetition of initial consonant sounds?",
+            options: ["Assonance", "Alliteration", "Onomatopoeia", "Rhyme"],
+            ans: "Alliteration"
+        },
+        {
+            q: "What punctuation mark is used to show possession or missing letters?",
+            options: ["Comma", "Apostrophe", "Hyphen", "Semicolon"],
+            ans: "Apostrophe"
+        },
+        {
+            q: "What is a group of words containing a subject and a verb called?",
+            options: ["Phrase", "Clause", "Idiom", "Prefix"],
+            ans: "Clause"
+        },
+        {
+            q: "Which prefix means 'against'?",
+            options: ["Pre-", "Un-", "Anti-", "Re-"],
+            ans: "Anti-"
+        },
+        {
+            q: "Who wrote the play 'Romeo and Juliet'?",
+            options: ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+            ans: "William Shakespeare"
+        }
+    ],
+    GeneralStudies1: [
+        {
+            q: "What is the largest continent by land area?",
+            options: ["Africa", "North America", "Asia", "Europe"],
+            ans: "Asia"
+        },
+        {
+            q: "Which organ pumps blood throughout the human body?",
+            options: ["Brain", "Lungs", "Liver", "Heart"],
+            ans: "Heart"
+        },
+        {
+            q: "In which year did World War II end?",
+            options: ["1918", "1939", "1945", "1950"],
+            ans: "1945"
+        },
+        {
+            q: "What is the longest river in the world?",
+            options: ["Amazon River", "Nile River", "Mississippi River", "Yangtze River"],
+            ans: "Nile River"
+        },
+        {
+            q: "Which gas do plants absorb from the atmosphere for photosynthesis?",
+            options: ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+            ans: "Carbon Dioxide"
+        },
+        {
+            q: "Who painted the Mona Lisa?",
+            options: ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+            ans: "Leonardo da Vinci"
+        },
+        {
+            q: "What is the capital city of Japan?",
+            options: ["Kyoto", "Osaka", "Tokyo", "Hiroshima"],
+            ans: "Tokyo"
+        },
+        {
+            q: "What is the hardest natural substance on Earth?",
+            options: ["Gold", "Iron", "Diamond", "Quartz"],
+            ans: "Diamond"
+        },
+        {
+            q: "How many continents are there on Earth?",
+            options: ["5", "6", "7", "8"],
+            ans: "7"
+        },
+        {
+            q: "Which ocean is the largest on Earth?",
+            options: ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+            ans: "Pacific Ocean"
+        },
+        {
+            q: "What is the currency of the United Kingdom?",
+            options: ["Euro", "Pound Sterling", "Dollar", "Yen"],
+            ans: "Pound Sterling"
+        },
+        {
+            q: "Which country gifted the Statue of Liberty to the United States?",
+            options: ["France", "United Kingdom", "Spain", "Germany"],
+            ans: "France"
+        },
+        {
+            q: "What is the chemical symbol for Gold?",
+            options: ["Ag", "Au", "Fe", "Go"],
+            ans: "Au"
+        },
+        {
+            q: "Which continent is also known as the 'Dark Continent' historically?",
+            options: ["Asia", "South America", "Africa", "Australia"],
+            ans: "Africa"
+        },
+        {
+            q: "Who is known as the author of the theory of relativity?",
+            options: ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+            ans: "Albert Einstein"
+        },
+        {
+            q: "What is the smallest country in the world by land area?",
+            options: ["Monaco", "Vatican City", "Malta", "San Marino"],
+            ans: "Vatican City"
+        },
+        {
+            q: "Which layer of the atmosphere protects us from harmful solar radiation?",
+            options: ["Troposphere", "Ozone Layer", "Mesosphere", "Thermosphere"],
+            ans: "Ozone Layer"
+        },
+        {
+            q: "What instrument is used to measure temperature?",
+            options: ["Barometer", "Thermometer", "Hygrometer", "Anemometer"],
+            ans: "Thermometer"
+        },
+        {
+            q: "Which country has the largest population in the world?",
+            options: ["United States", "India", "China", "Indonesia"],
+            ans: "India"
+        },
+        {
+            q: "What process do green plants use to make their own food?",
+            options: ["Respiration", "Photosynthesis", "Digestion", "Fermentation"],
+            ans: "Photosynthesis"
+        }
+    ],
+    GeneralStudies2: [
+        {
+            q: "Which treaty, signed in 1648, established the modern system of sovereign nation-states?",
+            options: ["Treaty of Versailles", "Peace of Westphalia", "Treaty of Utrecht", "Congress of Vienna"],
+            ans: "Peace of Westphalia"
+        },
+        {
+            q: "What is the deepest known location in Earth's oceans?",
+            options: ["Puerto Rico Trench", "Java Trench", "Challenger Deep", "Sunda Trench"],
+            ans: "Challenger Deep"
+        },
+        {
+            q: "Which law of thermodynamics states that entropy of an isolated system always increases over time?",
+            options: ["Zeroth Law", "First Law", "Second Law", "Third Law"],
+            ans: "Second Law"
+        },
+        {
+            q: "Who served as the principal author of the Declaration of Independence?",
+            options: ["Benjamin Franklin", "John Adams", "Thomas Jefferson", "James Madison"],
+            ans: "Thomas Jefferson"
+        },
+        {
+            q: "What international judicial body hears disputes between sovereign nations in The Hague?",
+            options: ["International Criminal Court", "International Court of Justice", "European Court of Human Rights", "Permanent Court of Arbitration"],
+            ans: "International Court of Justice"
+        },
+        {
+            q: "Which subatomic particle was discovered by J.J. Thomson in 1897 using cathode ray tubes?",
+            options: ["Proton", "Neutron", "Electron", "Positron"],
+            ans: "Electron"
+        },
+        {
+            q: "What economic metric measures the total market value of all final goods and services produced within a country's borders in a given year?",
+            options: ["Gross National Product (GNP)", "Gross Domestic Product (GDP)", "Net National Product (NNP)", "Purchasing Power Parity (PPP)"],
+            ans: "Gross Domestic Product (GDP)"
+        },
+        {
+            q: "Which ancient civilization constructed the city of Machu Picchu high in the Andes Mountains?",
+            options: ["Aztec", "Maya", "Inca", "Olmec"],
+            ans: "Inca"
+        },
+        {
+            q: "What is the primary organic component of plant cell walls?",
+            options: ["Chitin", "Cellulose", "Keratin", "Starch"],
+            ans: "Cellulose"
+        },
+        {
+            q: "Which African nation was never formally colonized by a European power, maintaining sovereignty except during Italian occupation (1936-1941)?",
+            options: ["Ghana", "Nigeria", "Ethiopia", "Kenya"],
+            ans: "Ethiopia"
+        },
+        {
+            q: "What is the phenomenon where light bends as it passes from one medium to another of different density?",
+            options: ["Reflection", "Diffraction", "Refraction", "Polarization"],
+            ans: "Refraction"
+        },
+        {
+            q: "Which United Nations agency is responsible for international public health?",
+            options: ["UNICEF", "UNESCO", "WHO", "UNHCR"],
+            ans: "WHO"
+        },
+        {
+            q: "Who was the first woman to win a Nobel Prize and remains the only person to win Nobel Prizes in two different scientific fields?",
+            options: ["Rosalind Franklin", "Marie Curie", "Ada Lovelace", "Dorothy Hodgkin"],
+            ans: "Marie Curie"
+        },
+        {
+            q: "What is the capital city of Australia?",
+            options: ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+            ans: "Canberra"
+        },
+        {
+            q: "In economics, what curve illustrates the trade-off between inflation and unemployment?",
+            options: ["Laffer Curve", "Lorenz Curve", "Phillips Curve", "Supply Curve"],
+            ans: "Phillips Curve"
+        },
+        {
+            q: "Which mountain range separates the continents of Europe and Asia?",
+            options: ["Alps", "Ural Mountains", "Caucasus Mountains", "Carpathian Mountains"],
+            ans: "Ural Mountains"
+        },
+        {
+            q: "What enzyme in human saliva breaks down complex carbohydrates into simpler sugars?",
+            options: ["Pepsin", "Amylase", "Lipase", "Trypsin"],
+            ans: "Amylase"
+        },
+        {
+            q: "Which historic document, signed in 1215, limited the power of the English monarchy?",
+            options: ["Magna Carta", "Bill of Rights 1689", "Edict of Nantes", "Habeas Corpus Act"],
+            ans: "Magna Carta"
+        },
+        {
+            q: "What type of chemical bond is formed by the sharing of electron pairs between atoms?",
+            options: ["Ionic bond", "Covalent bond", "Hydrogen bond", "Metallic bond"],
+            ans: "Covalent bond"
+        },
+        {
+            q: "Which island nation is located directly south of India across the Palk Strait?",
+            options: ["Maldives", "Madagascar", "Sri Lanka", "Mauritius"],
+            ans: "Sri Lanka"
+        }
     ]
 };
 
